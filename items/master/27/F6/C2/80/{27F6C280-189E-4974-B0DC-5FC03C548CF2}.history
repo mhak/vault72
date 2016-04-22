@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{27F6C280-189E-4974-B0DC-5FC03C548CF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T17:52:35.1844180Z",
+    "label": "Installed from package - Release 1",
+    "sourceControlRevisionId": null,
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Another",
+    "itemPath": "/sitecore/content/Home/Another",
+    "commandType": "Item",
+    "template": "Sample Item"
+  }
+]
