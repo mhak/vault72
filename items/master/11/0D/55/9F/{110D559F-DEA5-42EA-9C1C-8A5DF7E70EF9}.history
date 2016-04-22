@@ -7,11 +7,27 @@
     "language": "en",
     "timestamp": "03/28/2016 16:33:41",
     "label": "Saved",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4ae883ccf45ecc3a8ad785ed9914a40289740cc0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-22T17:52:31.3717111Z",
+    "label": "Installed from package - Release 1",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item",
+    "template": "Sample Item"
   }
 ]
