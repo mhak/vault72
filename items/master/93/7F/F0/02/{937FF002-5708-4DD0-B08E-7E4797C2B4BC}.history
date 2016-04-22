@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{937FF002-5708-4DD0-B08E-7E4797C2B4BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T17:52:36.2935364Z",
+    "label": "Installed from package - Release 1",
+    "sourceControlRevisionId": null,
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "New items Friday",
+    "itemPath": "/sitecore/content/Home/New items Friday",
+    "commandType": "Item",
+    "template": "Sample Item"
+  }
+]
